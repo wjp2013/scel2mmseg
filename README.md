@@ -9,3 +9,4 @@
 ## 附录
 
 * http://jjw.in/server/226
+* https://github.com/yanhuixie/mmseg_buddhism_dict
